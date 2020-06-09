@@ -56,6 +56,7 @@ export class DatasetAclComponent implements OnDestroy {
   protected dialogRef: any
   protected route_success: string[] = [ 'storage', 'pools' ];
   public save_button_enabled = true;
+  productType = window.localStorage.getItem('product_type');
 
   protected uid_fc: any;
   protected gid_fc: any;
@@ -457,6 +458,14 @@ export class DatasetAclComponent implements OnDestroy {
         this.dataHandler(this.entityForm, res);
       });
     });
+
+    if (this.productType !== 'SCALE') {
+      this.entityForm.setDisabled('acltype', true, true);
+      setTimeout(() => {
+        document.getElementById('aces0').setAttribute('style', 'top:340px');
+        console.log(document.getElementById('aces0'))
+      }, 2000)
+    }
 
   }
 
