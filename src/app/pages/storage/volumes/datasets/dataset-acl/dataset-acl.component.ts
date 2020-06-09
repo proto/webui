@@ -116,13 +116,9 @@ export class DatasetAclComponent implements OnDestroy {
         {
           type: 'select',
           name: 'acltype',
-          placeholder: 'ACL Type (the other kind)',
-          options: [
-            {label: 'NFS4', value: 'NFS4'},
-            {label: 'POSIX1E', value: 'POSIXE'},
-            {label: 'RICH', value: 'RICH'}
-          ],
-          tooltip: helptext.dataset_acl_tag_tooltip,
+          placeholder: helptext.acltype.placeholder,
+          options: helptext.acltype.options,
+          tooltip: helptext.acltype.tooltip,
           required: true,
         },
         {

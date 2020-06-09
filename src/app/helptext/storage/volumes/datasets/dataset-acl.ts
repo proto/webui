@@ -173,5 +173,15 @@ empty_acl_dialog: {
   title: T('Error'),
   message: T('Cannot open this ACL. Check the permissions this dataset \
  has inherited from parents.')
+},
+
+acltype: {
+  placeholder: T('ACL Type (Brand)'), // Each ACL item also has a select input called 'ACL Type'
+  tooltip: T('Select the type of ACL used by the filesystem.'), 
+  options: [
+    {label: 'NFSv4', value: 'NFS4'},
+    {label: 'POSIX.1e', value: 'POSIX1E'},
+    // {label: 'RICH', value: 'RICH'} in API - do we show it?
+  ]
 }
 }
