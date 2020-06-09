@@ -461,9 +461,9 @@ export class DatasetAclComponent implements OnDestroy {
 
     if (this.productType !== 'SCALE') {
       this.entityForm.setDisabled('acltype', true, true);
+    } else {
       setTimeout(() => {
-        document.getElementById('aces0').setAttribute('style', 'top:340px');
-        console.log(document.getElementById('aces0'))
+        document.getElementById('aces0').setAttribute('style', 'top:390px');
       }, 2000)
     }
 
