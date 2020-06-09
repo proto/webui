@@ -115,6 +115,18 @@ export class DatasetAclComponent implements OnDestroy {
         },
         {
           type: 'select',
+          name: 'acltype',
+          placeholder: 'ACL Type (the other kind)',
+          options: [
+            {label: 'NFS4', value: 'NFS4'},
+            {label: 'POSIX1E', value: 'POSIXE'},
+            {label: 'RICH', value: 'RICH'}
+          ],
+          tooltip: helptext.dataset_acl_tag_tooltip,
+          required: true,
+        },
+        {
+          type: 'select',
           name: 'default_acl_choices',
           placeholder: helptext.acl_defaults_placeholder,
           tooltip: helptext.acl_defaults_tooltip,
@@ -438,6 +450,7 @@ export class DatasetAclComponent implements OnDestroy {
       }
       this.save_button_enabled = canSave;
     });
+
     this.entityForm.formGroup.controls['default_acl_choices'].valueChanges.subscribe((value) => {
       let num;
       value === 'RESTRICTED' ? num = 2 : num = 3;
@@ -448,6 +461,7 @@ export class DatasetAclComponent implements OnDestroy {
         this.dataHandler(this.entityForm, res);
       });
     });
+
   }
 
   setDisabled(fieldConfig, formControl, disable, hide) {
@@ -461,6 +475,8 @@ export class DatasetAclComponent implements OnDestroy {
   }
 
   resourceTransformIncomingRestData(data) {
+    this.entityForm.formGroup.controls['acltype'].setValue(data.acltype);
+
     if (data.acl.length === 0) {
       setTimeout(() => {
         this.handleEmptyACL();
