@@ -6671,7 +6671,7 @@ msgid ""
 msgstr ""
 "Versione di FreeBSD da utilizzare come sistema operativo jail. Le jail possono eseguire  "
 "versioni di FreeBSD fino alla stessa versione del sistema host. "
-"Le versioni più recenti non sono mostratei."
+"Le versioni più recenti non sono mostrate."
 
 msgid "Fri"
 msgstr "Fri"
