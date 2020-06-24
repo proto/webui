@@ -6490,7 +6490,7 @@ msgstr ""
 "I file vengono suddivisi in blocchi di queste dimensioni prima del caricamento. Il numero di"
 " blocchi che possono essere trasferiti contemporaneamente sono impostati dal"
 " numero di <b> Trasferimenti </b> . Il singolo file più grande da trasferire non deve"
-" essere più di 10.000 blocchi".
+" essere più di 10.000 blocchi."
 
 msgid ""
 "Files that are deleted from the same  dataset are moved to the Recycle Bin "
@@ -6671,7 +6671,7 @@ msgid ""
 msgstr ""
 "Versione di FreeBSD da utilizzare come sistema operativo jail. Le jail possono eseguire  "
 "versioni di FreeBSD fino alla stessa versione del sistema host. "
-"Le versioni più recenti non sono mostrate".
+"Le versioni più recenti non sono mostratei."
 
 msgid "Fri"
 msgstr "Fri"
@@ -15118,19 +15118,19 @@ msgid "nthr"
 msgstr ""
 
 msgid "on Sundays at 00:00 (12:00 AM)"
-msgstr ""
+msgstr "ogni Domenica alle 00:00 (12:00 AM)"
 
 msgid "on the first day of the month at 00:00 (12:00 AM)"
-msgstr ""
+msgstr "il primo giorno del mese alle 00:00 (12:00 AM)"
 
 msgid "openfiles"
-msgstr ""
+msgstr "file aperti"
 
 msgid "overview"
-msgstr ""
+msgstr "panoramica"
 
 msgid "owner"
-msgstr ""
+msgstr "proprietario"
 
 msgid "password"
 msgstr ""
@@ -15142,13 +15142,13 @@ msgid "pcpu"
 msgstr ""
 
 msgid "priority"
-msgstr ""
+msgstr "priorità"
 
 msgid "pseudoterminals"
-msgstr ""
+msgstr "pseudoterminali"
 
 msgid "reset"
-msgstr ""
+msgstr "ripristina"
 
 msgid "resolver"
 msgstr ""
@@ -15163,28 +15163,28 @@ msgid "rpc.statd(8) bind port"
 msgstr ""
 
 msgid "safe"
-msgstr ""
+msgstr "sicuro"
 
 msgid "seconds"
-msgstr ""
+msgstr "secondi"
 
 msgid "seconds unless SAVE CHANGES is chosen to make them permanent."
-msgstr ""
+msgstr "secondi salvo che venga scelto SALVA MODIFICHE per renderle permanenti."
 
 msgid "securelevel"
 msgstr ""
 
 msgid "service failed to start."
-msgstr ""
+msgstr "avvio servizio fallito."
 
 msgid "service failed to stop."
-msgstr ""
+msgstr "stop servizio fallito."
 
 msgid "shmsize"
 msgstr ""
 
 msgid "software, which is provided as-is with no warranty."
-msgstr ""
+msgstr "software, che viene fornito as-is senza garanzia."
 
 msgid "stacksize"
 msgstr ""
@@ -15193,7 +15193,7 @@ msgid "stop_timeout"
 msgstr ""
 
 msgid "support and services? Contact"
-msgstr ""
+msgstr "supporto e servizi? Contattaci"
 
 msgid "swapuse"
 msgstr ""
@@ -15214,13 +15214,13 @@ msgid "threads"
 msgstr ""
 
 msgid "to set up configuration first."
-msgstr ""
+msgstr "per impostare la configurazione prima."
 
 msgid "total available"
-msgstr ""
+msgstr "totale disponibile"
 
 msgid "users"
-msgstr ""
+msgstr "utenti"
 
 msgid "vmemoryuse"
 msgstr ""
@@ -15247,13 +15247,13 @@ msgid "wallclock"
 msgstr ""
 
 msgid "warn"
-msgstr ""
+msgstr "attenzione"
 
 msgid "was successfully attached."
-msgstr ""
+msgstr "è stato collegato con successo."
 
 msgid "while pool is encrypted"
-msgstr ""
+msgstr "mentre la pool è criptata"
 
 msgid "yes"
-msgstr ""
+msgstr "sì"
