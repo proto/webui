@@ -6805,10 +6805,10 @@ msgstr ""
 "livello di estensione sia per file che per dispositivi."
 
 msgid "Generate idmap low range based on same algorithm that SSSD uses by default."
-msgstr ""
+msgstr "Genera gamma bassa idmap basata sullo stesso algoritmo utilizzato da SSSD per impostazione predefinita."
 
 msgid "Get Started"
-msgstr ""
+msgstr "Iniziare"
 
 msgid "GiB"
 msgstr ""
@@ -6818,109 +6818,120 @@ msgid ""
 "target=\"_blank\">sudo</a>. When using sudo,  a user is prompted for their "
 "account <b>Password</b>."
 msgstr ""
+"Dai a questo utente il permesso di usare <a  href=\"https://www.sudo.ws/\" "
+"target=\"_blank\">sudo</a>. Quando si utilizza sudo, a un utente viene richiesto la "
+"<b>Password</b> del suo account."
 
 msgid ""
 "Gives control of how much of the new device is made available to ZFS. Set "
 "to use the entire capacity of the new device."
 msgstr ""
+"Dà il controllo di quanto del nuovo dispositivo è reso disponibile per ZFS. Seleziona"
+"per utilizzare l'intera capacità del nuovo dispositivo."
 
 msgid "Global Auxiliary Parameters"
-msgstr ""
+msgstr "Parametri Ausiliari Globali"
 
 msgid "Global Configuration"
-msgstr ""
+msgstr "Configurazione Globale"
 
 msgid "Global Preview"
-msgstr ""
+msgstr "Anteprima Globale"
 
 msgid "Global Settings"
-msgstr ""
+msgstr "Impostazioni Globali"
 
 msgid "Global password to unlock SEDs."
-msgstr ""
+msgstr "Password Globale per sbloccare i SED"
 
 msgid "Go Back to Jails"
-msgstr ""
+msgstr "Ritorna alle Jail"
 
 msgid "Go Back to Virtual Machines"
-msgstr ""
+msgstr "Ritorna alle Macchine Virtuali"
 
 msgid "Go to Active Directory Form"
-msgstr ""
+msgstr "Vai al modulo di Active Directory"
 
 msgid "Go to Admin Portal"
-msgstr ""
+msgstr "Vai al Portale di Amministrazione"
 
 msgid "Go to HA settings"
-msgstr ""
+msgstr "Vai alle Impostazioni di HA"
 
 msgid "Go to Portal"
-msgstr ""
+msgstr "Vai al Portale"
 
 msgid "Graph Age in Months"
-msgstr ""
+msgstr "Grafico dell'età in Mesi"
 
 msgid "Graphite Separate Instances"
-msgstr ""
+msgstr "Istanze Separate di Grafite"
 
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgid "Group"
-msgstr ""
+msgstr "Gruppo"
 
 msgid "Group Bind Path"
-msgstr ""
+msgstr "Percorso di Associazione del Gruppo"
 
 msgid "Group Configuration"
-msgstr ""
+msgstr "Configurazione Gruppo"
 
 msgid "Group Data Quota "
-msgstr ""
+msgstr "Quota Dati Gruppo "
 
 msgid "Group ID"
-msgstr ""
+msgstr "ID Gruppo"
 
 msgid ""
 "Group ID created in  Authorized Access. Required when the Discovery "
 "Authentication Method is set to  CHAP or Mutual CHAP."
 msgstr ""
+"ID Gruppo creato in Accesso Autorizzato. Richiesto durante il Rilevamento"
+"Il metodo di autenticazione è impostato su CHAP o CHAP reciproco."
 
 msgid "Group Object Quota"
-msgstr ""
+msgstr "Quota Oggetto Gruppo"
 
 msgid "Group Quotas"
-msgstr ""
+msgstr "Quota Gruppo"
 
 msgid "Group members"
-msgstr ""
+msgstr "Membri del Gruppo"
 
 msgid ""
 "Group name cannot begin with a hyphen (<i>-</i>) or contain a space, tab, "
 "or these characters: <i>, : + & # % ^ ( ) ! @ ~ * ? < > =</i>. <i>$</i> can "
 "only be used as the last character of the username."
 msgstr ""
+"Il nome del gruppo non può iniziare con un trattino (<i>-</i>) o contenere uno spazio, TAB,"
+"o questi caratteri:<i>,: + & #% ^ ()! @ ~ *? < > =</i>. <i>$</i> possono"
+"essere utilizzatu solo come ultimo carattere del nome utente."
+
 
 msgid "Group to run as during file transfers to and  from this module."
-msgstr ""
+msgstr "Gruppo che può eseguire durante i trasferimenti di file da e verso questo modulo."
 
 msgid "Group to which this ACL entry applies."
-msgstr ""
+msgstr "Gruppo a cui si applica questa voce ACL."
 
 msgid "Groups"
-msgstr ""
+msgstr "Gruppi"
 
 msgid "Guest Access"
-msgstr ""
+msgstr "Accesso Guest"
 
 msgid "Guest Account"
-msgstr ""
+msgstr "Account Guest"
 
 msgid "Guest Operating System"
-msgstr ""
+msgstr "Sistema Operativo Guest"
 
 msgid "Guide"
-msgstr ""
+msgstr "Guida"
 
 msgid "HA Disabled"
 msgstr ""
