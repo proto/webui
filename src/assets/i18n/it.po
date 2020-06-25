@@ -14811,6 +14811,9 @@ msgid ""
 "RAM.](https://rclone.org/docs/#fast-list) This can also speed up or slow "
 "down the transfer."
 msgstr ""
+"[Usa meno transazioni in cambio di più RAM.] "
+"(https://rclone.org/docs/#fast-list) Ciò può accelerare o rallentare "
+"il trasferimento."
 
 msgid "allow_chflags"
 msgstr ""
@@ -14864,19 +14867,19 @@ msgid "allow_vmm"
 msgstr ""
 
 msgid "are the best place to ask questions and interact with fellow TrueNAS"
-msgstr ""
+msgstr "sono il posto migliore per porre domande e interagire con altri utenti TrueNAS"
 
 msgid "assign_localhost"
 msgstr ""
 
 msgid "at 00:00 (12:00 AM)"
-msgstr ""
+msgstr "alle 00:00 (12:00 AM)"
 
 msgid "at the start of each hour"
-msgstr ""
+msgstr "all'inizio di ogni ora"
 
 msgid "below to confirm."
-msgstr ""
+msgstr "in basso per confermare."
 
 msgid "boot"
 msgstr ""
@@ -14888,10 +14891,10 @@ msgid "click here"
 msgstr ""
 
 msgid "close"
-msgstr ""
+msgstr "chiudi"
 
 msgid "comment"
-msgstr ""
+msgstr "commento"
 
 msgid "coredumpsize"
 msgstr ""
@@ -14909,16 +14912,16 @@ msgid "datasize"
 msgstr ""
 
 msgid "days"
-msgstr ""
+msgstr "giorni"
 
 msgid "depends"
-msgstr ""
+msgstr "dipende"
 
 msgid "destroy"
-msgstr ""
+msgstr "distruggi"
 
 msgid "details"
-msgstr ""
+msgstr "dettagli"
 
 msgid "devfs_ruleset"
 msgstr ""
@@ -14927,13 +14930,13 @@ msgid "email"
 msgstr ""
 
 msgid "empty"
-msgstr ""
+msgstr "vuoto"
 
 msgid "enforce_statfs"
 msgstr ""
 
 msgid "error"
-msgstr ""
+msgstr "errore"
 
 msgid "exec_clean"
 msgstr ""
@@ -14972,13 +14975,13 @@ msgid "exec_timeout"
 msgstr ""
 
 msgid "expires in"
-msgstr ""
+msgstr "scade in"
 
 msgid "gathering info..."
-msgstr ""
+msgstr "raccolgo informazioni..."
 
 msgid "group"
-msgstr ""
+msgstr "gruppo"
 
 msgid "host_domainname"
 msgstr ""
@@ -14996,25 +14999,28 @@ msgid "hostid_strict_check"
 msgstr ""
 
 msgid "hours"
-msgstr ""
+msgstr "ore"
 
 msgid "iSCSI"
 msgstr ""
 
 msgid "iSCSI Group"
-msgstr ""
+msgstr "Gruppo iSCSI"
 
 msgid ""
 "iSCSI supports multiple  authentication methods that are used by the target "
 "to discover valid  devices. <i>None</i> allows anonymous discovery while "
 "<i>CHAP</i> and  <i>Mutual CHAP</i> require authentication."
 msgstr ""
+"iSCSI supporta più metodi di autenticazione utilizzabili dal target per "
+"rilevare dispositivi disponibili. <i>Nessuno</i> permette il rilevamento " 
+"anonimo, mentre <i>CHAP</i> e <i>Mutual</i> richiedono l'autenticazione."
 
 msgid "iXsystems for more information."
-msgstr ""
+msgstr "iXsystems per maggiori informazioni."
 
 msgid "interfaces"
-msgstr ""
+msgstr "interfacce"
 
 msgid "ip4"
 msgstr ""
@@ -15032,18 +15038,20 @@ msgid "ip_hostname"
 msgstr ""
 
 msgid "is Free and"
-msgstr ""
+msgstr "è libero e"
 
 msgid ""
 "is a collaborative website     with helpful guides and information about "
 "your new storage system."
 msgstr ""
+"è un sito di collaborazione    con guide e informazioni utili sul tuo "
+"nuovo sistema storage."
 
 msgid "is already in use."
-msgstr ""
+msgstr "è già utilizzato."
 
 msgid "is locked."
-msgstr ""
+msgstr "è bloccato."
 
 msgid "jail_zfs"
 msgstr ""
@@ -15055,7 +15063,7 @@ msgid "jail_zfs_mountpoint"
 msgstr ""
 
 msgid "list"
-msgstr ""
+msgstr "lista"
 
 msgid "login_flags"
 msgstr ""
@@ -15076,7 +15084,7 @@ msgid "memoryuse"
 msgstr ""
 
 msgid "minutes"
-msgstr ""
+msgstr "minuti"
 
 msgid "mount_devfs"
 msgstr ""
@@ -15100,7 +15108,7 @@ msgid "msgqsize"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nome"
 
 msgid "nmsgq"
 msgstr ""
