@@ -14978,7 +14978,7 @@ msgid "expires in"
 msgstr "scade in"
 
 msgid "gathering info..."
-msgstr "raccolgo info..."
+msgstr "raccolgo informazioni..."
 
 msgid "group"
 msgstr "gruppo"
