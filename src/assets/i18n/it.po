@@ -8576,79 +8576,79 @@ msgid ""
 msgstr ""
 
 msgid "NAA"
-msgstr ""
+msgstr "NAA"
 
 msgid "NAT"
-msgstr ""
+msgstr "NAT"
 
 msgid "NAT Autoconfigure IPv4"
-msgstr ""
+msgstr "NAT Autoconfigurazione IPv4"
 
 msgid "NAT Interface"
-msgstr ""
+msgstr "Interfaccia NAT"
 
 msgid "NAT Port Forwarding"
-msgstr ""
+msgstr "NAT Port Forwarding "
 
 msgid "NFS"
-msgstr ""
+msgstr "NFS"
 
 msgid "NFSv3 ownership model for NFSv4"
-msgstr ""
+msgstr "NFSv3 ownership model per NFSv4"
 
 msgid "NFSv4"
-msgstr ""
+msgstr "NFSv4"
 
 msgid "NIC"
-msgstr ""
+msgstr "NIC"
 
 msgid "NIS"
-msgstr ""
+msgstr "NIS"
 
 msgid "NIS Domain"
-msgstr ""
+msgstr "Dominio NIS"
 
 msgid "NIS Servers"
-msgstr ""
+msgstr "Server NIS"
 
 msgid "NO"
-msgstr ""
+msgstr "NO"
 
 msgid "NOT RUN SINCE LAST BOOT"
-msgstr ""
+msgstr "NON ESEGUITA DALL'ULTIMO AVVIO"
 
 msgid "NSS"
-msgstr ""
+msgstr "NSS"
 
 msgid "NTLMv1 Auth"
-msgstr ""
+msgstr "NTLMv1 Auth"
 
 msgid "NTP Server Settings"
-msgstr ""
+msgstr "Settings Server NTP"
 
 msgid "NTP Servers"
-msgstr ""
+msgstr "Server NTP"
 
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 msgid "Name Jail and Choose FreeBSD Release"
-msgstr ""
+msgstr "Nome della Jail a release FreeBSD scelta"
 
 msgid "Name and Method"
-msgstr ""
+msgstr "Nome e metodo"
 
 msgid "Name and Naming Schema cannot be provided at the same time."
-msgstr ""
+msgstr "Nome e Naming Schema non possono essere forniti nello stesso tempo"
 
 msgid "Name and Options"
-msgstr ""
+msgstr "Nome e opzioni"
 
 msgid "Name and Provider"
-msgstr ""
+msgstr "Nome e provider"
 
 msgid "Name and Type"
-msgstr ""
+msgstr "Nome e tipo"
 
 msgid ""
 "Name and port of the server that reports the  external IP address. For "
@@ -8656,10 +8656,15 @@ msgid ""
 "href=\"https://help.dyn.com/remote-access-api/checkip-tool/\" "
 "target=\"_blank\">Dyn IP detection</a>.  to discover the remote socket IP "
 "address."
-msgstr ""
+msgstr
+"Nome e porta del server a cui mandare l'indirizzo IP. Per"
+"esempio, inserire <i>checkip.dyndns.org:80</i>  usa  <a "
+"href=\"https://help.dyn.com/remote-access-api/checkip-tool/\" "
+"target=\"_blank\">la detection dell'IP dinamico</a>.  per scoprire l'indirizzo del socket IP "
+"remoto."
 
 msgid "Name of NIS domain."
-msgstr ""
+msgstr "Nome di questo dominio NIS"
 
 msgid ""
 "Name of the <a "
@@ -8668,144 +8673,161 @@ msgid ""
 "receive notifications. This overrides the default channel in the incoming "
 "webhook settings."
 msgstr ""
+"Nome del <a "
+"href=\"https://docs.mattermost.com/help/getting-started/organizing-"
+"conversations.html#managing-channels\" target=\"_blank\">canale</a> per "
+"ricevere le notifiche. Questo sovrascrive il canale di default nelle impostazioni "
+"dei webhook entranti."
 
 msgid "Name of the InfluxDB database."
-msgstr ""
+msgstr "Nome del database InfluxDB."
 
 msgid "Name of the WebDAV site, service, or software being used."
-msgstr ""
+msgstr "Nome del sito, del servizio o del software WebDAV usato."
 
 msgid ""
 "Name of the extent. If the <i>Extent size</i> is not <i>0</i>, it cannot be "
 "an existing file within the pool or dataset."
 msgstr ""
+"Nome dell'estensione. Se la <i>dimensione dell'estensione</i> non è <i>0</i>, non può "
+"essere un file esistente all'interno della pool o del dataset."
 
 msgid "Name of the new alert service."
-msgstr ""
+msgstr "Nome del nuovo servizio di avviso."
 
 msgid ""
 "Name of the new cloned boot environment. Alphanumeric characters, dashes "
 "(-), underscores (_),     and periods (.) are allowed."
 msgstr ""
+"Nome del nuovo ambiente di boot clonato. Caratteri alfanumerici, trattini "
+"(-), sottolineato (_),     e punti (.) sono permessi."
 
 msgid "Name of the new dataset created from the  cloned snapshot."
-msgstr ""
+msgstr "Nome del nuovo dataset creato dalla snapshot clonata."
 
 msgid "Name of the room."
-msgstr ""
+msgstr "Nome della stanza."
 
 msgid "Name of this SSH connection. SSH connection names  must be unique."
-msgstr ""
+msgstr "Nome della connessione SSH. I nomi delle connessioni SSH deve essere univoci."
 
 msgid "Name of this replication configuration."
-msgstr ""
+msgstr "Nome di questa configurazione della replica."
 
 msgid "Name or Naming Schema is required. Only one field can be used at a time."
-msgstr ""
+msgstr "Un nome o uno schema di nomenclatura è richiesto. Solo un campo può essere usato per volta."
 
 msgid "Name or Naming Schema must be provided."
-msgstr ""
+msgstr "Un nome o uno schema di nomenclatura è richiesto."
 
 msgid "Name servers not configured"
-msgstr ""
+msgstr "Il nome dei server non è configurato"
 
 msgid "Name that was created with the SMB share."
-msgstr ""
+msgstr "Nome che è stato creato con la share SMB."
 
 msgid "Nameserver 1"
-msgstr ""
+msgstr "Nameserver 1"
 
 msgid "Nameserver 2"
-msgstr ""
+msgstr "Nameserver 2"
 
 msgid "Nameserver 3"
-msgstr ""
+msgstr "Nameserver 3"
 
 msgid "Nameservers"
-msgstr ""
+msgstr "Nameserver"
 
 msgid "Naming Schema"
-msgstr ""
+msgstr "Schema di nomenclatura"
 
 msgid "Navigation"
-msgstr ""
+msgstr "Navigazione"
 
 msgid "NetBIOS"
-msgstr ""
+msgstr "NetBIOS"
 
 msgid "NetBIOS Alias"
-msgstr ""
+msgstr "Alias NetBIOS"
 
 msgid "NetBIOS Name"
-msgstr ""
+msgstr "Nome NetBIOS"
 
 msgid "NetBIOS alias"
-msgstr ""
+msgstr "Alias NetBIOS"
 
 msgid "NetBIOS-NS"
-msgstr ""
+msgstr "NETBIOS-NS"
 
 msgid "Netbios Name"
-msgstr ""
+msgstr "Nome Netbios"
 
 msgid ""
 "Netbios Name of this NAS. This name must differ from the <i>Workgroup</i> "
 "name and be no greater than 15 characters."
 msgstr ""
+"Nome Netbios di questo NAS. Questo nome deve essere diverso dal nome del <i>Workgroup</i> "
+"e non essere più grande di 15 caratteri."
 
 msgid "Netcat Active Side"
-msgstr ""
+msgstr "Netcat Active Side"
 
 msgid "Netcat Active Side Connect Address"
-msgstr ""
+msgstr "Indirizzo di connessione Netcat Active Side"
 
 msgid "Netcat Active Side Listen Address"
-msgstr ""
+msgstr "Indirizzo di ascolto Netcat Active Side""
 
 msgid "Netcat Active Side Max Port"
-msgstr ""
+msgstr "Porta Max Netcat Active Side"
 
 msgid "Netcat Active Side Min Port"
-msgstr ""
+msgstr "Porta Min Netcat Active Side"
 
 msgid "Netmask"
-msgstr ""
+msgstr "Netmask"
 
 msgid "Netwait IP List"
-msgstr ""
+msgstr "Lista Netwait IP"
 
 msgid "Network"
-msgstr ""
+msgstr "Rete"
 
 msgid ""
 "Network Address Translation (NAT). Transforms local network IP addresses "
 "into a single IP address. Set when the jail will share a single connection "
 "to the Internet with other systems on the network."
 msgstr ""
+"Network Address Translation (NAT). Traduce gli indirizzi IP locali "
+"in un singolo indirizzo IP. Impostare quando la jail condividerà un'unica "
+"connessione a Internet con altri sistemi sulla rete."
 
 msgid "Network Information Service (NIS)"
-msgstr ""
+msgstr "Servizio informazione di rete (NIS)"
 
 msgid "Network Interface"
-msgstr ""
+msgstr "Interfaccia di rete"
 
 msgid "Network Properties"
-msgstr ""
+msgstr "Proprietà di rete"
 
 msgid "Network Reports"
-msgstr ""
+msgstr "Report di rete"
 
 msgid "Network Summary"
-msgstr ""
+msgstr "Sommario della rete"
 
 msgid "Network Timeout Before Initiating Failover"
-msgstr ""
+msgstr "Timeout di rete prima dell'inizio del failover"
 
 msgid ""
 "Network addresses allowed to use this initiator. Leave blank to allow all   "
 "   networks or list network addresses with a CIDR mask. Separate entries by "
 "pressing      <code>Enter</code>."
 msgstr ""
+"Indirizzi di rete che possono usare questo initiatior. Lascia vuoto per permettere a    "
+"   tutti gli indirizzi o elenca gli indirizzi di rete con maschera CIDR. Separa i valori "
+"premendo      <code>Enter</code>."
 
 msgid ""
 "Network addresses allowed use this initiator. Each address can include an "
@@ -8814,9 +8836,14 @@ msgid ""
 "target=\"_blank\">CIDR</a> netmask. Click <i>+</i> to add the network "
 "address to the list. Example: <i>192.168.2.0/24</i>."
 msgstr ""
+"Indirizzi di rete che possono usare questo initiatior. Ogni indirizzo può includere una "
+" <a "
+"href=\"https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing\" "
+"target=\"_blank\">CIDR</a> netmask opzionale. Premi <i>+</i> per aggiungere "
+"L'indirizzo di rete alla lista. Esempio: <i>192.168.2.0/24</i>."
 
 msgid "Network changes applied successfully."
-msgstr ""
+msgstr "I cambiamenti di rete sono stati applicati con successo."
 
 msgid ""
 "Network community string.  The community string acts like a user ID or "
@@ -8826,79 +8853,92 @@ msgid ""
 "snmp-community-strings/\"  target=\"_blank\">What is an SNMP Community "
 "String?</a>."
 msgstr ""
+"Community String di rete.  Una Community String di rete può servire da "
+"ID utente o password. Un utente con una Community String corretta ha accesso alle informazioni "
+"di rete. Il default è <i>pubblico</i>. Per più informazioni, visita  <a "
+"href=\"https://community.helpsystems.com/knowledge-base/intermapper/snmp/"
+"snmp-community-strings/\"  target=\"_blank\">Cos'è una SNMP Community "
+"String?</a>."
 
 msgid "Network connectivity will be interrupted. "
-msgstr ""
+msgstr "La connessione di rete sarà interrotta. "
 
 msgid "Network connectivity will be interrupted. Proceed?"
-msgstr ""
+msgstr "La connessione di rete sarà interrotta. Procedere?"
 
 msgid "Network control (highest)"
-msgstr ""
+msgstr "Controllo della rete (massimo)"
 
 msgid "Network interface changes have been made permanent."
-msgstr ""
+msgstr "I cambiamenti all'interfaccia di rete sono state applicate definitivamente."
 
 msgid ""
 "Network interface changes have been temporarily applied for testing. Keep "
 "changes permanently? Changes are automatically reverted after the testing "
 "delay if they are not permanently applied."
 msgstr ""
+"I cambiamenti all'interfaccia di rete sono stati applicati temporaneamente per un test. Tenere "
+"le modifiche in modo definitivo? Le modifiche sono automaticamente ripristinate dopo il test "
+"se non sono applicate in modo definitivo."
 
 msgid ""
 "Network interface settings have been temporarily changed for testing. The "
 "settings will revert to the previous configuration after"
 msgstr ""
+"Le impostazioni dell'interfaccia di rete sono state temporaneamente cambiate per un test. Le "
+"impostazioni torneranno alla configurazione precedente successivamente"
 
 msgid "Network interfaces to include in the bridge."
-msgstr ""
+msgstr "Interfacce di rete da includere nel bridge"
 
 msgid "Networks"
-msgstr ""
+msgstr "Reti"
 
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 msgid "Never Delete"
-msgstr ""
+msgstr "Non cancellare mai"
 
 msgid "New Disk"
-msgstr ""
+msgstr "Nuovo disco"
 
 msgid "New Password"
-msgstr ""
+msgstr "Nuova password"
 
 msgid "New Primary Group"
-msgstr ""
+msgstr "Nuovo gruppo primario"
 
 msgid "New Static Key Settings"
-msgstr ""
+msgstr "Nuovi setting di chiave statica"
 
 msgid ""
 "New users are not given <b>su</b> permissions if <i>wheel</i> is their "
 "primary group."
 msgstr ""
+"I nuovi utenti non hanno i permessi <b>su</b> se <i>wheel</i> è il loro "
+"gruppo primario."
 
 msgid "Newer Clone"
-msgstr ""
+msgstr "Clone più recente"
 
 msgid "Newer Intermediate, Child, and Clone"
-msgstr ""
+msgstr "Nuovo intermedio, figlio e clone."
 
 msgid "Next"
-msgstr ""
+msgstr "Prossimo"
 
 msgid "Next Run"
-msgstr ""
+msgstr "Prossima esecuzione"
 
 msgid "Nic to attach:"
-msgstr ""
+msgstr "Nic di cui fare l'attach"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "No Communication Warning Time"
-msgstr ""
+msgstr "Nessun tempo per la comunicazione degli avvisi"
 
 msgid "No Encryption (less secure, but faster)"
 msgstr "Nessuna crittazione (meno sicuro, ma più veloce)"
@@ -8957,10 +8997,10 @@ msgid "No, continue with import"
 msgstr "No, continua con l’importazione."
 
 msgid "Nobind"
-msgstr ""
+msgstr "Nobind"
 
 msgid "Nodes CARP states do not agree."
-msgstr ""
+msgstr "Gli stati dei nodi CARP non sono coerenti."
 
 msgid "None"
 msgstr "Nessuno"
@@ -8988,7 +9028,7 @@ msgid "Notes about this disk."
 msgstr "Note su questo disco."
 
 msgid "Notes about this extent."
-msgstr ""
+msgstr "Note su questa estensione."
 
 msgid "Notes or identifiers about the theme."
 msgstr "Note o identificatori sul tema."
@@ -8997,7 +9037,7 @@ msgid "Notice"
 msgstr "Nota"
 
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 msgid "Number of CPUs"
 msgstr "Numero di CPU"
@@ -9033,19 +9073,28 @@ msgid ""
 "href=\"https://www.freebsd.org/cgi/man.cgi?query=jail\" "
 "target=\"_blank\">JAIL(8)</a> man page explains the finer details."
 msgstr ""
+"Numero di jail figlie creabili permesse dalla jail o da altre jail "
+"sotto questa jail. Un limite di <i>0</i> impedisce alla jail di creare jail"
+"figlie. Le Jails gerarchiche sono spiegate nella <a "
+"href=\"https://www.freebsd.org/cgi/man.cgi?query=jail\" "
+"target=\"_blank\">JAIL(8)</a> man page."
 
 msgid "Number of days to renew certificate before expiring."
-msgstr ""
+msgstr "Numero di giorni per rinnovare il certificato prima della scadenza."
 
 msgid ""
 "Number of objects that can be owned by each of the selected groups.  "
 "Entering <code>0</code> (zero) allows unlimited objects."
 msgstr ""
+"Numero di oggetti che possono essere posseduti dai ognuno dei gruppi selezionati."
+"Con <code>0</code> (zero) si permette oggetti illimitati."
 
 msgid ""
 "Number of objects that can be owned by each of the selected users.  "
 "Entering <code>0</code> (zero) allows unlimited objects."
 msgstr ""
+"Numero di oggetti che possono essere posseduti da ognuno degli utenti selezionati."
+"Con <code>0</code> (zero) si permette oggetti illimitati."
 
 msgid ""
 "Number of password-based key derivation function 2 (PBKDF2) iterations to "
@@ -9054,6 +9103,11 @@ msgid ""
 "href=\"https://en.wikipedia.org/wiki/PBKDF2\" target=\"_blank\">PBKDF2</a> "
 "for more details."
 msgstr ""
+"Numero di iterazioni della funzione 2 (PBKDF2) di derivazione delle chiavi basate su password "
+"da usare per ridurre la vulnerabilità     agli attacchi brute-force. È richiesto di inserire un "
+"numero maggiore di <i>100000</i>. Vedi      <a "
+"href=\"https://en.wikipedia.org/wiki/PBKDF2\" target=\"_blank\">PBKDF2</a> "
+"per maggiori informazioni."
 
 msgid ""
 "Number of points for each hourly, daily,  weekly, monthly, or yearly graph "
@@ -9061,31 +9115,43 @@ msgid ""
 "Destroy</i> dialog to appear. Changes do not take  effect until the "
 "existing reporting database is destroyed."
 msgstr ""
+"Numero di punti per ogni grafico orario, giornaliero, settimanale, mensile o annuale "
+"(I valori ammessi sono 1-4096). Cambiare questo valore fa apparire la finestra"
+"<i>Conferma la distruzione RRD </i>. I cambiamenti non avvengono fino a che "
+"il database del reporting esistente non è cancellato."
 
 msgid "Number of queued SysV messages allowed for the jail."
-msgstr ""
+msgstr "Numero di messaggi SysV in coda permessi per questa jail."
 
 msgid "Number of retries for failed replications"
-msgstr ""
+msgstr "Numero di tentativi effettuati per ogni replica fallita"
 
 msgid ""
 "Number of seconds before a timeout. Increase this value if AD DNS queries "
 "time out."
 msgstr ""
+"Numero di secondi prima di un timeout . Aumenta questo valore se le query AD DNS "
+"vanno in time out."
 
 msgid ""
 "Number of seconds before timeout. If the AD service does not immediately "
 "start after connecting to the domain, increase this value."
 msgstr ""
+"Numero di secondi prima di un timeout. Se il servizio AD non parte immediatamente "
+"prima di connettersi al dominio, aumenta questo valore."
 
 msgid ""
 "Number of seconds to wait after a network failure  before triggering a "
 "failover. <i>0</i> means a failover occurs  immediately, or after two "
 "seconds when the system is using a link  aggregation."
 msgstr ""
+"Numero di secondi da aspettare dopo un errore di rete prima di scatenare il "
+"failover. <i>0</i> indica che il failover interviene instantaneamente, o dopo due "
+"secondi quando il sistema usa una link aggregation."
+
 
 msgid "Number of servers"
-msgstr ""
+msgstr "Numero di server"
 
 msgid ""
 "Number of simultaneous file transfers. Enter a number based on the "
@@ -9093,29 +9159,43 @@ msgid ""
 "href=\"https://rclone.org/docs/#transfers-n\" target=\"_blank\">rclone "
 "--transfers</a>."
 msgstr ""
+"Numero di trasferimenti di file simultanei. Inserisci un numero basato sulla "
+"banda disponibile e sulle performance del sistema di destinazione. Maggiori informazioni <a "
+"href=\"https://rclone.org/docs/#transfers-n\" target=\"_blank\">rclone "
+"--transfers</a>."
+
 
 msgid ""
 "Number of times the replication is attempted  before stopping and marking "
 "the task as failed."
 msgstr ""
+"Numero di tentativi per la replica prima che sia fermata e che il task sia segnalato"
+"come fallito."
 
 msgid ""
 "Number of virtual CPUs to allocate to the virtual machine. The maximum is "
 "16, or fewer if the host CPU limits the maximum. The VM operating system "
 "might also have operational or licensing restrictions on the number of CPUs."
 msgstr ""
+"Numero di CPU virtuali da allocare nella macchina virtuale. Il massimo è "
+"16, o meno se la CPU host ha un limite sul massimo. Il sitema operativo della VM "
+"può inoltre avere limiti operazionali o di licenza sul numero di CPU."
 
 msgid ""
 "Numeric start priority for the jail at boot time. Valid priorities are "
 "between 1 and 99. <b>Smaller</b> values are <b>higher</b> priority. At "
 "system shutdown the priority is reversed. <br> <b>Example:</b> <i>99</i>"
 msgstr ""
+"Priorità numerica per la jail al boot time. I valori ammessi sono "
+"compresi tra 1 and 99. I valori <b>minori</b> sono a priorità <b>più alta</b>. Allo "
+"spegnimento la priorità è invertita. <br> <b>Esempio:</b> <i>99</i>"
+
 
 msgid "Numeric value for the number of PTYs available to the jail."
-msgstr ""
+msgstr "Valore numerico per il numero di PTY disponibili alla jail."
 
 msgid "Numeric value to set the file descriptor table size."
-msgstr ""
+msgstr "Valore numero per inserire la dimensione della tabella del descrittore del file."
 
 msgid "OAuth Advanced Options"
 msgstr ""
